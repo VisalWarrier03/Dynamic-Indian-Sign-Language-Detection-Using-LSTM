@@ -15,8 +15,8 @@ from keras.saving import register_keras_serializable
 
 
 # Constants
-CSV_PATH = "E:\\Deep Learning Project\\data\\INCLUDE_dataset\\Adjectives\\Adjectives_videos.csv"
-BASE_DIR = r"C:\Users\visha\OneDrive\Desktop\U21CS010\VII Semester\Deep Learning HW\ISL Test\Final_Run_ver2"
+CSV_PATH = "Adjectives_videos.csv"
+BASE_DIR = r"Final_Run_ver2"
 MAX_SEQUENCE_LENGTH = 150
 FEATURE_DIM = 225
 
