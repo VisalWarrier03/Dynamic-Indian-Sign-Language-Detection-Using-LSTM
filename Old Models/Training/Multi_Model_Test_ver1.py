@@ -17,8 +17,8 @@ from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 
 
 # Constants
-CSV_PATH = "E:\\Deep Learning Project\\data\\INCLUDE_dataset\\Adjectives\\Adjectives_videos.csv"
-BASE_DIR = r"C:\Users\visha\OneDrive\Desktop\U21CS010\VII Semester\Deep Learning HW\ISL Test\Final_Run"
+CSV_PATH = "Adjectives_videos.csv"
+BASE_DIR = "ISL Test\Final_Run"
 MAX_SEQUENCE_LENGTH = 150
 FEATURE_DIM = 225
 
